@@ -1,0 +1,13 @@
+[project]
+name = "activations-in-marimo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair>=5.5.0",
+    "marimo>=0.10.7",
+    "pandas>=2.2.3",
+    "torch>=2.5.1",
+    "torchvision>=0.20.1",
+]
